@@ -1,4 +1,4 @@
-# AI Knowledge Asset Workbench
+# KnowAssetQA-Workbench
 
 企业知识资产检索与 Agent 问答工作台 — 一个面向企业知识资产的轻量级检索增强问答工作台。
 
